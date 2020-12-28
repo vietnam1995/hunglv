@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name		Facebook Auto Like Professional 2015
+// @name		Facebook Auto Like Professional 2020
 // @namespace			http://zrftech.blogspot.com
 // @author		Zia Ur Rehman(Z.R.F) <ziaurr3hman@hotmail.com> http://ziaurr3hman.comoj.com
 // @description		Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists, page feeds, events, timeline photos...
-// @icon		https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/icon.png	  
-// @updateURL			https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeProfessional.meta.js
-// @downloadURL			https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeProfessional.user.js
+// @icon		https://github.com/vietnam1995/hunglv/raw/master/images/icon.png	  
+// @updateURL			https://raw.githubusercontent.com/vietnam1995/hunglv/master/FacebookAutoLikeProfessional.meta.js
+// @downloadURL			https://raw.githubusercontent.com/vietnam1995/hunglv/master/FacebookAutoLikeProfessional.user.js
 // @version		13.0
-// @copyright		2014+, ZiaUrR3hman (https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional)
+// @copyright		2014+, ZiaUrR3hman (https://github.com/vietnam1995/hunglv)
 // @grant		GM_getValue
 // @grant		GM_setValue
 // @grant		GM_deleteValue
