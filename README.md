@@ -28,15 +28,15 @@ Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts,
 
 Screen Shots
 ===================
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.1.png)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.2.png)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.4.png)
+![](https://github.com/vietnam1995/hunglv/raw/master/images/facebookAutoLikeProfessionalscreenshot.1.png)![](https://github.com/vietnam1995/hunglv/raw/master/images/facebookAutoLikeProfessionalscreenshot.2.png)![](https://github.com/vietnam1995/hunglv/raw/master/images/facebookAutoLikeProfessionalscreenshot.4.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.5.png)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.6.png)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.7.png)
+![](https://github.com/vietnam1995/hunglv/raw/master/images/facebookAutoLikeProfessionalscreenshot.5.png)![](https://github.com/vietnam1995/hunglv/raw/master/images/facebookAutoLikeProfessionalscreenshot.6.png)![](https://github.com/vietnam1995/hunglv/raw/master/images/facebookAutoLikeProfessionalscreenshot.7.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.8.png)
+![](https://github.com/vietnam1995/hunglv/raw/master/images/facebookAutoLikeProfessionalscreenshot.8.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChange.gif)
+![](https://github.com/vietnam1995/hunglv/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChange.gif)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChangeMainPage.png)
+![](https://github.com/vietnam1995/hunglv/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChangeMainPage.png)
 
 
 Requirements or How To Install?
@@ -64,10 +64,10 @@ Opera version 12 and earlier supports user scripts natively. [Violentmonkey](htt
 Download or Install
 ===================
 <b>Facebook Auto Like Professional</b>
-- After installing any extension or addon Click [here](https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeProfessional.user.js) to install Facebook Auto Like Professional Version.
+- After installing any extension or addon Click [here](https://raw.githubusercontent.com/vietnam1995/hunglv/master/FacebookAutoLikeProfessional.user.js) to install Facebook Auto Like Professional Version.
 
 <b>Facebook Auto Like Unlimited</b>
-- After installing any extension or addon Click [here](https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.user.js) to install Facebook Auto Like Unlimited Version.
+- After installing any extension or addon Click [here](https://raw.githubusercontent.com/vietnam1995/hunglv/master/FacebookAutoLikeUnlimited.user.js) to install Facebook Auto Like Unlimited Version.
 
 Supported Languages
 ===================
